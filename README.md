@@ -1,6 +1,6 @@
 ## Introduction
 
-**NOTE: This is the archive of the original code. For official use, please refer to: [XNAS](http://github.com/MAC-AutoML/XNAS) **
+**NOTE: This is the archive of the original code. For official use, please refer to: [XNAS](http://github.com/MAC-AutoML/XNAS)**
 
 Code for paper: **Neural Architecture Search with Representation Mutual Information**
 
